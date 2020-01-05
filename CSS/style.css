@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background:url(../img/bg.jpg);
+	background repeat:no repeat;
+	background-size:cover;
+}
+
+.container {
+	width: 650px ;
+	margin: 10% auto ;
+}
+
+
+.login-section{
+
+background-color: #f5f5dc7a;
+
+padding: 30px;
+
+text-align: center;
+
+text-transform: uppercase;
+
+color: white;
+
+font-size: 30px;
+}
+background-color: #673ab76e;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+
+	
+.login-section img{
+
+}
+
+.login-section h3{
+
+}
+
+.form-control {
+	width: 90%;
+	padding: 15px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.submit-btn{
+	padding: 5px 10px;
+	text-transform: uppercase;
+	transition: 0.3s ease-in-out;
+	cursor: pointer;
+
+}
+.submit-btn:hover{
+	color: blue;
+	box-shadow: 2px 2px 4px;
+}
+.link{
+	width: 90%;
+	color: steelblue;
+	text-transform: capitalize;
+	font-size: 20px;
+	background: white;
+}
